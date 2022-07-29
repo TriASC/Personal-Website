@@ -1,0 +1,51 @@
+#game_bar {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+    color:white;
+    font-size: 32px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.games:hover {
+    color:white;
+}
+
+a{
+    text-decoration: none;
+    color: initial;
+}
+
+.game_titles{
+    padding-top: 5px;
+    text-align: center;
+    color: green;
+}
+
+h1{
+    text-align: center;
+}
+
+h3, h4{
+    font-size: 25px;
+}
+
+#one{
+    border: 5px solid green;
+    border-radius: 25px;
+    background-color: lightgreen;
+}
+
+
+#two{
+    border: 5px solid yellow;
+    border-radius: 25px;
+    background-color: lightyellow;
+}
+
+#three{
+    border: 5px solid yellow;
+    border-radius: 25px;
+    background-color: lightyellow;
+}
